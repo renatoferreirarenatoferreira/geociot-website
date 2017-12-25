@@ -1,10 +1,10 @@
-@media (min-width: 801px) {
+@media (min-width: 768px) {
     .container{
-        max-width: 800px;
+        max-width: 768px;
     }
     .row-middle{
         margin: auto;
-        max-width: 800px;
+        max-width: 768px;
     }
     .feature-itens-first{
         margin-top: 50px;
