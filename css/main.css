@@ -35,6 +35,9 @@ h4 {
 .container-fluid-middle {
     padding: 60px 50px;
 }
+.container-fluid-middle-top {
+    padding: 10px 50px;
+}
 .navbar {
     margin-bottom: 0;
     z-index: 9999;
@@ -56,6 +59,9 @@ h4 {
 
 .bg-grey {
     background-color: #f6f6f6;
+}
+.bg-black {
+    background-color: #000000;
 }
 .copy {
     margin-top: 5px;
